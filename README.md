@@ -1,4 +1,4 @@
-# Repositório de Métodos de Otimização Combinatória Clássicos - QUATS
+# Métodos de Otimização Combinatória Clássicos - QUATS
 
 Este repositório armazena códigos e implementações relacionados a métodos de otimização combinatória clássicos, desenvolvidos no contexto do grupo de pesquisa QUATS.
 
