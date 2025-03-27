@@ -11,6 +11,10 @@ Nesse repositório serão explorados, analisados e implementados os principais m
 
     2. Heuristica de busca local (Local Search)
 
+    3. Simulated Annealing 
+
+    4. Algoritmos Genéticos
+
 
 
 Esses métodos servirão de base para futuras comparações com técnicas quânticas, permitindo a avaliação da vantagem que a computação quântica pode oferecer em relação aos algoritmos clássicos.
