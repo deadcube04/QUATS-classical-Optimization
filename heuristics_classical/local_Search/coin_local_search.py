@@ -28,7 +28,7 @@ def local_search_trade(coins : dict, price : int) -> list:
                 new_order = reorder(best_order, i, j)
                 new_payment = test_payment(new_order, price)
                 if len(new_payment) < len(best_payment):
-                    best_order, best_payment = new_order, new_payment
+                    best_order, best_payment = new_order[:], new_payment[:]
                     improve = True
                     break
             if improve:
